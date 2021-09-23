@@ -1,6 +1,8 @@
-# IV Simposio DCNI Taller de Desarrollo de Aplicaciones Web React, Vue y Angular
+# IV Simposio DCNI 
 
-Presenta [Alan Badillo Salas](dragonnomada.medium.com)
+## Taller de Desarrollo de Aplicaciones Web con React, Vue y Angular
+
+Presenta [Alan Badillo Salas](mailto:dragonnomada123@gmail.com)
 
 ## Introducción
 
